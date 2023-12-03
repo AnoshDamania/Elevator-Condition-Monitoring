@@ -9,8 +9,8 @@ Our project, by utilizing various sensors delves into condition and prevention m
 Team Members:
 Meghna, Nipun, Abhiram, Anosh, Sanjay
 
-Submission Requirements:
-Code file - Ultrasonic.uno
-Presentation - TARP.pptx
-Report file - Tarp Report (doc and pdf format)
-IEEE format - Research_Paper_IEEE
+Submission Requirements:-
+Code file: Ultrasonic.uno
+Presentation: TARP.pptx
+Report file: Tarp Report (doc and pdf format)
+IEEE format: Research_Paper_IEEE
